@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anjanakallu2000.github.io/electro-hub/sitemap.xml
